@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Bancolombia
 - 🌱 I’m currently learning about cloud skills and Software Development
 - 👯 I’m looking to collaborate on any project that seems interesting
 - 📫 How to reach me: datorot@outlook.com
@@ -9,7 +8,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Bancolombia
 - 🌱 I’m currently learning about cloud skills and Software Development
 - 👯 I’m looking to collaborate on any project that seems interesting
 - 📫 How to reach me: datorot@outlook.com
