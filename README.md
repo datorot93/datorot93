@@ -7,6 +7,8 @@
 
 <h3> Skills </h3>
 
+
+
 <h4>BACKEND</h4>
 <span> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -26,10 +28,6 @@
 
 <span> 
   <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)">
-</span>
-
-<span> 
-  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
 </span>
 
 <h4>DATABASES</h4>
@@ -60,5 +58,15 @@
 
 <span> 
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+</span>
+
+<h4>DEVOPS</h4>
+
+<span> 
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+</span>
+
+<span> 
+  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </span>
 
